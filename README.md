@@ -12,6 +12,16 @@
 [Demo連結](https://youtu.be/2QJKLwctvL0)
 
 # 書籍查詢系統
+## 查詢系統功能說明
+- 依文字搜尋
+- 依選項搜尋
+- 多重選擇
+- 其他
+  - 查無資訊
+  - 全部書籍
+  - 排行榜
+  - 書的個資
+
 ## 資料庫shema
 ![image](https://github.com/user-attachments/assets/63031514-e13f-48d0-a01a-6a36dde43982)
 
