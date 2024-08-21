@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>ch12-1.php</title>
+</head>
+<body>
+<form method="post" action="mngbook.php">
+<table><tr>
+  <th>書名</th>
+  <td><input type="text" name="bname" required></td>
+</tr>
+
+<tr>
+  <th>作者1:</th>
+  <td><input type="text" name="w1" required></td>
+  <td border="0"><strong>作者國籍</strong></td>
+  <td><input type="text" name="c1" placeholder="未知">
+  </td>
+</tr>
+<tr>
+  <th>作者2:</th>
+  <td><input type="text" name="w2"></td>
+  <td border="0"><strong>作者國籍</strong></td>
+  <td><input type="text" name="c2"  placeholder="未知">
+  </td>
+</tr>
+<tr>
+  <th>作者3:</th>
+  <td><input type="text" name="w3"></td>
+  <td border="0"><strong>作者國籍</strong></td>
+  <td><input type="text" name="c3"  placeholder="未知">
+  </td>
+</tr>
+<tr>
+  <th>類別</th>
+  <td>
+      <select name="cat" >
+          <option value="" selected>請選擇</option><!--(空的代表沒有傳資訊)-->
+          <option value="0">參考書</option>
+          <option value="1">小說</option>
+          <option value="2">雜誌</option>
+          <option value="3">電影</option>
+          <option value="4">漫畫</option>
+          <option value="5">其它</option>
+      </select>
+  </td>
+</tr></table>
+書籍類型:
+<input type="checkbox" name="T1" value="1"
+       checked="True" />溫馨
+<input type="checkbox" name="T2" value="2"/>愛情
+<input type="checkbox" name="T3" value="3"/>驚悚<br/>
+
+<input type="submit" name="addn" value="查詢">
+</form>
+</body>
+</html>
