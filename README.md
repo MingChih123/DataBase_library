@@ -1,6 +1,6 @@
 # DataBase 專題
-組員：1102924李名智、1102932林微訢  
 開課老師：陳耀輝  
+組員：1102924李名智、1102932林微訢  
 主題：書籍查詢系統  
 [書籍查詢系統PPT](https://docs.google.com/presentation/d/17rw4zXuwMZ3z825EsJitIs_AbJaZOz9NIpoStJWNrIk/edit?usp=sharing)  
 [介紹影片連結](https://www.youtube.com/watch?v=FvLEsStP4Y4)  
