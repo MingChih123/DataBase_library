@@ -1,5 +1,5 @@
 # DataBase 專題
-開課老師：陳耀輝  
+系所：嘉義大學資工系  
 組員：1102924李名智、1102932林微訢  
 主題：書籍查詢系統  
 [書籍查詢系統PPT](https://docs.google.com/presentation/d/17rw4zXuwMZ3z825EsJitIs_AbJaZOz9NIpoStJWNrIk/edit?usp=sharing)  
